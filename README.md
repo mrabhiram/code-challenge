@@ -57,3 +57,10 @@ Execute the tests with:
 ## Source
 
 The Calculating Point Mutations problem at Rosalind [http://rosalind.info/problems/hamm/](http://rosalind.info/problems/hamm/)
+
+
+# Screenshots
+
+![Alt text](/screenshots/py-test.png?raw=true "Python Tests")
+
+![Alt text](/screenshots/js-test.png?raw=true "JS Tests")
